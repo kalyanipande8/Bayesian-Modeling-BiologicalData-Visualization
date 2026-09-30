@@ -1,0 +1,14 @@
+{
+  "n_compounds": 18,
+  "n_measurements": 432,
+  "n_draws_per_chain": 2000,
+  "n_chains": 2,
+  "mean_acceptance_rate": [
+    0.166,
+    0.165
+  ],
+  "max_rhat": 1.006,
+  "min_ess": 447.3,
+  "ec50_ci_coverage": 1.0,
+  "runtime_seconds": 115.8
+}
